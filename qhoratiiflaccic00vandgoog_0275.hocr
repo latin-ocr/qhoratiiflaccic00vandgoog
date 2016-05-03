@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./qhoratiiflaccic00vandgoog_0275.png"; bbox 0 0 3300 5042; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 618 947 2618 1510">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 618 947 2618 1510">
+     <span class='ocr_line' id='line_1_1' title="bbox 618 947 2618 1122; baseline 0.009 -24"><span class='ocrx_word' id='word_1_1' title='bbox 618 978 777 1122; x_wconf 88' lang='lat' dir='ltr'><strong>Q.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 875 947 1645 1099; x_wconf 83' lang='lat' dir='ltr'><strong>HORATII</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1737 981 2390 1103; x_wconf 78' lang='lat' dir='ltr'><strong>FLAccl</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 2571 1103 2618 1118; x_wconf 79' lang='grc'><strong>,,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 970 1297 2067 1510; baseline 0.005 -72"><span class='ocrx_word' id='word_1_5' title='bbox 970 1297 2067 1510; x_wconf 78' lang='lat' dir='ltr'><strong>CARMINUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1205 1657 1816 1748">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1205 1657 1816 1748">
+     <span class='ocr_line' id='line_1_3' title="bbox 1205 1657 1816 1748; baseline 0.011 -7"><span class='ocrx_word' id='word_1_6' title='bbox 1205 1657 1816 1748; x_wconf 69' lang='lat' dir='ltr'><strong>LIBER2‘11.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 912 2317 2304 2785">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 912 2317 2304 2785">
+     <span class='ocr_line' id='line_1_4' title="bbox 1051 2317 1932 2443; baseline 0.003 -3"><span class='ocrx_word' id='word_1_7' title='bbox 1051 2317 1383 2440; x_wconf 88' lang='lat' dir='ltr'><strong>LES</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1471 2321 1932 2443; x_wconf 88' lang='lat' dir='ltr'><strong>ODES</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 912 2555 2304 2785; baseline 0.004 -7"><span class='ocrx_word' id='word_1_9' title='bbox 912 2641 2082 2785; x_wconf 81' lang='lat' dir='ltr'><strong>D’HORACE.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 2291 2555 2304 2572; x_wconf 16' lang='lat' dir='ltr'><strong>x</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1155 2965 2044 3142">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1155 2965 2044 3142">
+     <span class='ocr_line' id='line_1_6' title="bbox 1155 2965 2044 3142; baseline 0.008 -53"><span class='ocrx_word' id='word_1_11' title='bbox 1155 3004 1604 3102; x_wconf 76' lang='lat' dir='ltr'>LIVRE</span> <span class='ocrx_word' id='word_1_12' title='bbox 1696 3007 1826 3142; x_wconf 21' lang='lat'>11..</span> <span class='ocrx_word' id='word_1_13' title='bbox 2037 2965 2044 2972; x_wconf 70' lang='grc'><strong><em>’</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
